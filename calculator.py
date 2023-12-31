@@ -1,6 +1,6 @@
 from tkinter import Tk, Entry, Button , StringVar 
 
-class Calculater:
+class git config --global user.email"dataentrybraincraft001@gmail.com":
     def __init__(self,master):
         master.title("Calculater")
         master.geometry('357x420+0+0')
